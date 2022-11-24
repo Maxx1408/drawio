@@ -1,1 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T08:23:01.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="STFUcsdvaFocbxoZ6vXF" type="github"><diagram id="vP4595f_K-KEhFXwi0ih">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-24T08:28:02.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="F5dWVkKi5QroSmZdA2Pv" type="github">
+  <diagram id="RSgcimgFwdyrJoMBEtNY" name="Seite-1">
+    <mxGraphModel dx="544" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YycMYlryiFCkq7wtfAo4-1" value="Buchaltung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YycMYlryiFCkq7wtfAo4-2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="540" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="YycMYlryiFCkq7wtfAo4-3" value="Buha2000- Update" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="270" y="44" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YycMYlryiFCkq7wtfAo4-7" value="Rechnung erstellen &amp;amp;&lt;br&gt;drucken" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YycMYlryiFCkq7wtfAo4-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YycMYlryiFCkq7wtfAo4-10" value="Arbeit" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;strokeWidth=3;" edge="1" target="YycMYlryiFCkq7wtfAo4-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YycMYlryiFCkq7wtfAo4-11" value="Dokument" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;strokeWidth=3;" edge="1" source="YycMYlryiFCkq7wtfAo4-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
